@@ -53,7 +53,6 @@ Si quiero filtrar registros tengo que implementar una condición para decir cuá
 
 > Resumen de la sintaxis: 
 
-
     SELECT [*, campo, campo]  
       FROM nombreTabla  
       WHERE condicion
